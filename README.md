@@ -4,7 +4,7 @@ This project presents a dynamic Power BI dashboard designed to help sales manage
 
 ---
 
- 🛠 Tools & Technologies
+🛠 Tools & Technologies
 - **Power BI** – Custom visuals, DAX, KPI metrics
 - **Excel** – Source data preparation and calculations
 
@@ -29,4 +29,4 @@ Enabled stakeholders to:
  📁 Files Included
 - `Sales_Opportunity_Dashboard.pbix` – Power BI report file
 - `Sales_Data.xlsx` – Source data
-  Dashboard Screenshots  
+- Dashboard screenshots
