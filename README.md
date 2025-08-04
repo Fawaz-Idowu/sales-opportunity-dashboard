@@ -1,4 +1,4 @@
-# Sales Opportunity Dashboard
+# Vantage Metrics Ltd Sales Opportunity Dashboard
 
 This project presents a dynamic Power BI dashboard designed to help sales managers and reps track opportunities, forecast revenue, and analyze sales performance by region.
 
